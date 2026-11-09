@@ -1,0 +1,10 @@
+[project]
+name = "magik-resolution-selector"
+description = "Magik Resolution Selector - ComfyUI node pack: derives width/height INT outputs from an aspect-ratio preset, a megapixel target and a multiple-snap value; includes a two-resolution variant (width_1, height_1, width_2, height_2) sharing one aspect ratio."
+version = "1.1.0"
+license = { text = "MIT License" }
+dependencies = []
+
+[tool.comfy]
+DisplayName = "Magik Resolution Selector"
+Icon = ""
